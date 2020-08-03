@@ -61,7 +61,7 @@ function App() {
               />
             </Form.Field>
             <Form.Field>
-              <label>Tech Stack</label>
+              <label>Tech Stack (Full-Stack, Front-End, Back-End, etc.)</label>
               <input
                 value={stack}
                 onChange={(e) => setStack(e.target.value)}
