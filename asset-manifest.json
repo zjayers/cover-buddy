@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/cover-buddy/static/css/main.44b11144.chunk.css",
-    "main.js": "/cover-buddy/static/js/main.8c904064.chunk.js",
-    "main.js.map": "/cover-buddy/static/js/main.8c904064.chunk.js.map",
+    "main.js": "/cover-buddy/static/js/main.78ef4fd9.chunk.js",
+    "main.js.map": "/cover-buddy/static/js/main.78ef4fd9.chunk.js.map",
     "runtime-main.js": "/cover-buddy/static/js/runtime-main.47cde3de.js",
     "runtime-main.js.map": "/cover-buddy/static/js/runtime-main.47cde3de.js.map",
     "static/css/2.add10c0e.chunk.css": "/cover-buddy/static/css/2.add10c0e.chunk.css",
     "static/js/2.6a65039e.chunk.js": "/cover-buddy/static/js/2.6a65039e.chunk.js",
     "static/js/2.6a65039e.chunk.js.map": "/cover-buddy/static/js/2.6a65039e.chunk.js.map",
     "index.html": "/cover-buddy/index.html",
-    "precache-manifest.d33280f0fc3d338caaebbfd961107595.js": "/cover-buddy/precache-manifest.d33280f0fc3d338caaebbfd961107595.js",
+    "precache-manifest.2a92a74315dc203a376f9681b7f2a5dd.js": "/cover-buddy/precache-manifest.2a92a74315dc203a376f9681b7f2a5dd.js",
     "service-worker.js": "/cover-buddy/service-worker.js",
     "static/css/2.add10c0e.chunk.css.map": "/cover-buddy/static/css/2.add10c0e.chunk.css.map",
     "static/css/main.44b11144.chunk.css.map": "/cover-buddy/static/css/main.44b11144.chunk.css.map",
@@ -21,6 +21,6 @@
     "static/css/2.add10c0e.chunk.css",
     "static/js/2.6a65039e.chunk.js",
     "static/css/main.44b11144.chunk.css",
-    "static/js/main.8c904064.chunk.js"
+    "static/js/main.78ef4fd9.chunk.js"
   ]
 }
