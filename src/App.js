@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import "semantic-ui-css/semantic.min.css";
 import { Container, Form, Header } from "semantic-ui-react";
-import { generateFromData } from "./generator";
+import { generateFromData } from "./TEMPLATE";
 
 function App() {
   const [firstName, setFirstName] = useState("");
