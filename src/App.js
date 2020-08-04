@@ -225,8 +225,8 @@ function App() {
             )}
             wrap="true"
             style={{ width: "80%", height: "100%" }}
-            readOnly={true}
-          ></textarea>
+            onChange={() => {}}
+          />
         </Container>
       </Container>
     </div>
