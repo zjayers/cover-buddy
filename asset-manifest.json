@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/cover-buddy/static/css/main.44b11144.chunk.css",
+    "main.css": "/cover-buddy/static/css/main.44087e4a.chunk.css",
     "main.js": "/cover-buddy/static/js/main.320a6646.chunk.js",
     "main.js.map": "/cover-buddy/static/js/main.320a6646.chunk.js.map",
     "runtime-main.js": "/cover-buddy/static/js/runtime-main.47cde3de.js",
@@ -9,10 +9,10 @@
     "static/js/2.6a65039e.chunk.js": "/cover-buddy/static/js/2.6a65039e.chunk.js",
     "static/js/2.6a65039e.chunk.js.map": "/cover-buddy/static/js/2.6a65039e.chunk.js.map",
     "index.html": "/cover-buddy/index.html",
-    "precache-manifest.c6e0237c390b6c53e17c1c3edaf70685.js": "/cover-buddy/precache-manifest.c6e0237c390b6c53e17c1c3edaf70685.js",
+    "precache-manifest.641e15637839328c0894a51486a79cfe.js": "/cover-buddy/precache-manifest.641e15637839328c0894a51486a79cfe.js",
     "service-worker.js": "/cover-buddy/service-worker.js",
     "static/css/2.add10c0e.chunk.css.map": "/cover-buddy/static/css/2.add10c0e.chunk.css.map",
-    "static/css/main.44b11144.chunk.css.map": "/cover-buddy/static/css/main.44b11144.chunk.css.map",
+    "static/css/main.44087e4a.chunk.css.map": "/cover-buddy/static/css/main.44087e4a.chunk.css.map",
     "static/js/2.6a65039e.chunk.js.LICENSE.txt": "/cover-buddy/static/js/2.6a65039e.chunk.js.LICENSE.txt",
     "static/media/semantic.min.css": "/cover-buddy/static/media/outline-icons.ef60a4f6.woff"
   },
@@ -20,7 +20,7 @@
     "static/js/runtime-main.47cde3de.js",
     "static/css/2.add10c0e.chunk.css",
     "static/js/2.6a65039e.chunk.js",
-    "static/css/main.44b11144.chunk.css",
+    "static/css/main.44087e4a.chunk.css",
     "static/js/main.320a6646.chunk.js"
   ]
 }

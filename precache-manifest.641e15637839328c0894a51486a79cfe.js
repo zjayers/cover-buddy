@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b6c6327dae563f7965d04e665e78389f",
+    "revision": "b4155cce3283b6533922303533ade524",
     "url": "/cover-buddy/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/cover-buddy/static/css/2.add10c0e.chunk.css"
   },
   {
-    "revision": "ed38d17697bf2f19575b",
-    "url": "/cover-buddy/static/css/main.44b11144.chunk.css"
+    "revision": "1b4accbbccfa8d25fd24",
+    "url": "/cover-buddy/static/css/main.44087e4a.chunk.css"
   },
   {
     "revision": "0f31c965bca3de5c83a7",
@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/cover-buddy/static/js/2.6a65039e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ed38d17697bf2f19575b",
+    "revision": "1b4accbbccfa8d25fd24",
     "url": "/cover-buddy/static/js/main.320a6646.chunk.js"
   },
   {
