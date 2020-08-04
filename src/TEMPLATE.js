@@ -60,5 +60,5 @@ Phone: ${phoneNumber}
 GitHub: github.com/${gitProfile}
 Website: ${website}
 
-${moment().format("MMMM Do YYYY")}
+${moment().format("MMMM Do, YYYY")}
 `;
