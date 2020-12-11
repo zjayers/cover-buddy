@@ -1,8 +1,7 @@
 # Cover-Buddy
-[![GitHub Release](https://img.shields.io/github/release/zjayers/cover-buddy.svg?style=flat)]()
-[![GitHub pull requests](https://img.shields.io/github/issues-pr/zjayers/cover-buddy.svg?style=flat)]()
+[![GitHub Release](https://img.shields.io/github/release/zjayers/cover-buddy.svg?style=flat)](https://github.com/zjayers/cover-buddy/releases)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/zjayers/cover-buddy.svg?style=flat)](https://github.com/zjayers/cover-buddy/pulls)
 [![Issues](https://img.shields.io/github/issues-raw/zjayers/cover-buddy.svg?maxAge=25000)](https://github.com/zjayers/cover-buddy/issues)
-[![MIT License](https://img.shields.io/apm/l/atomic-ui.svg?)](https://github.com/zjayers/cover-buddy/blob/master/LICENSEs)
 
 ## Description
 
